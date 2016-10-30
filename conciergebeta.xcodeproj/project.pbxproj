@@ -7,23 +7,59 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		954AE54D1DC5FCE800A1D0E7 /* fleur-de-lis-french-royal-cufflink-iwc-chrono.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 954AE54C1DC5FCE800A1D0E7 /* fleur-de-lis-french-royal-cufflink-iwc-chrono.jpg */; };
+		954AE54F1DC5FD4600A1D0E7 /* 1003-dominator-29M-fly-enjoy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 954AE54E1DC5FD4600A1D0E7 /* 1003-dominator-29M-fly-enjoy.jpg */; };
+		954AE5511DC5FF9A00A1D0E7 /* chatIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 954AE5501DC5FF9A00A1D0E7 /* chatIcon.png */; };
+		954AE5531DC613CF00A1D0E7 /* concierge_logo_2.png in Resources */ = {isa = PBXBuildFile; fileRef = 954AE5521DC613CF00A1D0E7 /* concierge_logo_2.png */; };
+		955A19171DC4DE8C00F33858 /* concierge_launch.png in Resources */ = {isa = PBXBuildFile; fileRef = 955A19161DC4DE8C00F33858 /* concierge_launch.png */; };
+		955A19191DC4E4DB00F33858 /* concierge_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 955A19181DC4E4DB00F33858 /* concierge_logo.png */; };
+		955A191B1DC4ED1800F33858 /* chat_example.png in Resources */ = {isa = PBXBuildFile; fileRef = 955A191A1DC4ED1800F33858 /* chat_example.png */; };
+		955A191D1DC4EF3F00F33858 /* chatCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 955A191C1DC4EF3F00F33858 /* chatCell.xib */; };
+		955A191F1DC4EF5C00F33858 /* chatCellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 955A191E1DC4EF5C00F33858 /* chatCellTableViewCell.swift */; };
+		955A19211DC4F0A000F33858 /* chatTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 955A19201DC4F0A000F33858 /* chatTableViewController.swift */; };
+		955A19251DC4FC5700F33858 /* Message.swift in Sources */ = {isa = PBXBuildFile; fileRef = 955A19241DC4FC5700F33858 /* Message.swift */; };
+		955A19271DC50DCB00F33858 /* royce.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 955A19261DC50DCB00F33858 /* royce.jpg */; };
+		955A19291DC50E0B00F33858 /* hotel.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 955A19281DC50E0B00F33858 /* hotel.jpg */; };
+		955A192B1DC518FA00F33858 /* blurred-background-2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 955A192A1DC518FA00F33858 /* blurred-background-2.jpg */; };
+		955A192D1DC51BF600F33858 /* Columbia-Serial-Medium-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 955A192C1DC51B5300F33858 /* Columbia-Serial-Medium-Regular.ttf */; };
+		955A192F1DC5283600F33858 /* avatar.png in Resources */ = {isa = PBXBuildFile; fileRef = 955A192E1DC5283600F33858 /* avatar.png */; };
 		9567B9021DC2392E00842A50 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9567B9011DC2392E00842A50 /* AppDelegate.swift */; };
-		9567B9041DC2392E00842A50 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9567B9031DC2392E00842A50 /* ViewController.swift */; };
+		9567B9041DC2392E00842A50 /* chatViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9567B9031DC2392E00842A50 /* chatViewController.swift */; };
 		9567B9071DC2392E00842A50 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9567B9051DC2392E00842A50 /* Main.storyboard */; };
 		9567B90A1DC2392E00842A50 /* conciergebeta.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 9567B9081DC2392E00842A50 /* conciergebeta.xcdatamodeld */; };
 		9567B90C1DC2392E00842A50 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9567B90B1DC2392E00842A50 /* Assets.xcassets */; };
 		9567B90F1DC2392E00842A50 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9567B90D1DC2392E00842A50 /* LaunchScreen.storyboard */; };
+		95854D3F1DC5E2C900CBE333 /* curvedLine.png in Resources */ = {isa = PBXBuildFile; fileRef = 95854D3E1DC5E2C900CBE333 /* curvedLine.png */; };
+		95854D411DC5EAD100CBE333 /* homeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95854D401DC5EAD100CBE333 /* homeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		954AE54C1DC5FCE800A1D0E7 /* fleur-de-lis-french-royal-cufflink-iwc-chrono.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "fleur-de-lis-french-royal-cufflink-iwc-chrono.jpg"; sourceTree = "<group>"; };
+		954AE54E1DC5FD4600A1D0E7 /* 1003-dominator-29M-fly-enjoy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1003-dominator-29M-fly-enjoy.jpg"; sourceTree = "<group>"; };
+		954AE5501DC5FF9A00A1D0E7 /* chatIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = chatIcon.png; sourceTree = "<group>"; };
+		954AE5521DC613CF00A1D0E7 /* concierge_logo_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = concierge_logo_2.png; sourceTree = "<group>"; };
+		955A19161DC4DE8C00F33858 /* concierge_launch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = concierge_launch.png; sourceTree = "<group>"; };
+		955A19181DC4E4DB00F33858 /* concierge_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = concierge_logo.png; sourceTree = "<group>"; };
+		955A191A1DC4ED1800F33858 /* chat_example.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = chat_example.png; sourceTree = "<group>"; };
+		955A191C1DC4EF3F00F33858 /* chatCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = chatCell.xib; sourceTree = "<group>"; };
+		955A191E1DC4EF5C00F33858 /* chatCellTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = chatCellTableViewCell.swift; sourceTree = "<group>"; };
+		955A19201DC4F0A000F33858 /* chatTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = chatTableViewController.swift; sourceTree = "<group>"; };
+		955A19241DC4FC5700F33858 /* Message.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Message.swift; sourceTree = "<group>"; };
+		955A19261DC50DCB00F33858 /* royce.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = royce.jpg; sourceTree = "<group>"; };
+		955A19281DC50E0B00F33858 /* hotel.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hotel.jpg; sourceTree = "<group>"; };
+		955A192A1DC518FA00F33858 /* blurred-background-2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "blurred-background-2.jpg"; sourceTree = "<group>"; };
+		955A192C1DC51B5300F33858 /* Columbia-Serial-Medium-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Columbia-Serial-Medium-Regular.ttf"; sourceTree = "<group>"; };
+		955A192E1DC5283600F33858 /* avatar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = avatar.png; sourceTree = "<group>"; };
 		9567B8FE1DC2392E00842A50 /* conciergebeta.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = conciergebeta.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9567B9011DC2392E00842A50 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		9567B9031DC2392E00842A50 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		9567B9031DC2392E00842A50 /* chatViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = chatViewController.swift; sourceTree = "<group>"; };
 		9567B9061DC2392E00842A50 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9567B9091DC2392E00842A50 /* conciergebeta.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = conciergebeta.xcdatamodel; sourceTree = "<group>"; };
 		9567B90B1DC2392E00842A50 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9567B90E1DC2392E00842A50 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9567B9101DC2392E00842A50 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		95854D3E1DC5E2C900CBE333 /* curvedLine.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = curvedLine.png; sourceTree = "<group>"; };
+		95854D401DC5EAD100CBE333 /* homeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = homeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,9 +93,27 @@
 			isa = PBXGroup;
 			children = (
 				9567B9011DC2392E00842A50 /* AppDelegate.swift */,
-				9567B9031DC2392E00842A50 /* ViewController.swift */,
+				95854D401DC5EAD100CBE333 /* homeViewController.swift */,
+				9567B9031DC2392E00842A50 /* chatViewController.swift */,
 				9567B9051DC2392E00842A50 /* Main.storyboard */,
+				955A19241DC4FC5700F33858 /* Message.swift */,
+				955A191E1DC4EF5C00F33858 /* chatCellTableViewCell.swift */,
+				955A19201DC4F0A000F33858 /* chatTableViewController.swift */,
 				9567B90B1DC2392E00842A50 /* Assets.xcassets */,
+				955A19161DC4DE8C00F33858 /* concierge_launch.png */,
+				955A192A1DC518FA00F33858 /* blurred-background-2.jpg */,
+				955A19281DC50E0B00F33858 /* hotel.jpg */,
+				955A191A1DC4ED1800F33858 /* chat_example.png */,
+				955A19261DC50DCB00F33858 /* royce.jpg */,
+				95854D3E1DC5E2C900CBE333 /* curvedLine.png */,
+				955A19181DC4E4DB00F33858 /* concierge_logo.png */,
+				954AE5501DC5FF9A00A1D0E7 /* chatIcon.png */,
+				954AE5521DC613CF00A1D0E7 /* concierge_logo_2.png */,
+				954AE54C1DC5FCE800A1D0E7 /* fleur-de-lis-french-royal-cufflink-iwc-chrono.jpg */,
+				955A192E1DC5283600F33858 /* avatar.png */,
+				954AE54E1DC5FD4600A1D0E7 /* 1003-dominator-29M-fly-enjoy.jpg */,
+				955A191C1DC4EF3F00F33858 /* chatCell.xib */,
+				955A192C1DC51B5300F33858 /* Columbia-Serial-Medium-Regular.ttf */,
 				9567B90D1DC2392E00842A50 /* LaunchScreen.storyboard */,
 				9567B9101DC2392E00842A50 /* Info.plist */,
 				9567B9081DC2392E00842A50 /* conciergebeta.xcdatamodeld */,
@@ -126,8 +180,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				954AE5531DC613CF00A1D0E7 /* concierge_logo_2.png in Resources */,
+				95854D3F1DC5E2C900CBE333 /* curvedLine.png in Resources */,
+				954AE54F1DC5FD4600A1D0E7 /* 1003-dominator-29M-fly-enjoy.jpg in Resources */,
+				954AE54D1DC5FCE800A1D0E7 /* fleur-de-lis-french-royal-cufflink-iwc-chrono.jpg in Resources */,
+				955A192F1DC5283600F33858 /* avatar.png in Resources */,
+				954AE5511DC5FF9A00A1D0E7 /* chatIcon.png in Resources */,
+				955A192D1DC51BF600F33858 /* Columbia-Serial-Medium-Regular.ttf in Resources */,
 				9567B90F1DC2392E00842A50 /* LaunchScreen.storyboard in Resources */,
+				955A191D1DC4EF3F00F33858 /* chatCell.xib in Resources */,
+				955A191B1DC4ED1800F33858 /* chat_example.png in Resources */,
+				955A19191DC4E4DB00F33858 /* concierge_logo.png in Resources */,
 				9567B90C1DC2392E00842A50 /* Assets.xcassets in Resources */,
+				955A19291DC50E0B00F33858 /* hotel.jpg in Resources */,
+				955A19271DC50DCB00F33858 /* royce.jpg in Resources */,
+				955A192B1DC518FA00F33858 /* blurred-background-2.jpg in Resources */,
+				955A19171DC4DE8C00F33858 /* concierge_launch.png in Resources */,
 				9567B9071DC2392E00842A50 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -139,7 +207,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9567B9041DC2392E00842A50 /* ViewController.swift in Sources */,
+				95854D411DC5EAD100CBE333 /* homeViewController.swift in Sources */,
+				955A19211DC4F0A000F33858 /* chatTableViewController.swift in Sources */,
+				9567B9041DC2392E00842A50 /* chatViewController.swift in Sources */,
+				955A191F1DC4EF5C00F33858 /* chatCellTableViewCell.swift in Sources */,
+				955A19251DC4FC5700F33858 /* Message.swift in Sources */,
 				9567B9021DC2392E00842A50 /* AppDelegate.swift in Sources */,
 				9567B90A1DC2392E00842A50 /* conciergebeta.xcdatamodeld in Sources */,
 			);
@@ -301,6 +373,7 @@
 				9567B9151DC2392E00842A50 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
